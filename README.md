@@ -11,9 +11,9 @@ This section details the milestones a developer actively progresses through, ste
   <img src="ascent.svg" width="500" />
 </p>
 
-* [ ] Reaching Software Architecture Proficiency
-* [ ] Deploying Complex Global Web Applications
-* [ ] Implementing Expert-Level UI/UX Principles
+* [ ] Mastering Enterprise Software Architecture
+* [ ] Scaling High-Performance Web Systems
+* [ ] Full-Stack Product Engineering Excellence
 * [x] Third Year BSc (Hons) Computer Science in Progress
 
 ---
