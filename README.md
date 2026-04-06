@@ -7,11 +7,28 @@
 ### The Vertical Ascent: Climbing the Repository Stairs
 This section details the milestones a developer actively progresses through, step-by-step. Each commitment and completed project represents another flight conquered on the staircase of technical proficiency and professional growth.
 
-```text
-                       _ [Expert Mastery]
-                     _|_
-                   _|_   [Global Deployment]
-                 _|_
-               _|_       [High-Level UI/UX]
-             _|_
-      [YOU] |_           [BSc (Hons) Computer Science]
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header)
+
+* [ ] Reaching Software Architecture Proficiency
+* [ ] Deploying Complex Global Web Applications
+* [ ] Implementing Expert-Level UI/UX Principles
+* [x] Third Year BSc (Hons) Computer Science in Progress
+
+---
+
+### Tech Stack Grid
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,dotnet,mongodb,mysql,figma,github" />
+  </a>
+</p>
+
+### Developer Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanii2024&show_icons=true&theme=radical&rank_icon=github" alt="Chanii2024's GitHub stats" />
+</p>
+
+---
+<p align="center">
+"Committed to building exceptional and efficient digital experiences."
+</p>
