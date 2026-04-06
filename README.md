@@ -27,7 +27,7 @@ This section details the milestones a developer actively progresses through, ste
 
 ### Developer Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanii2024&show_icons=true&theme=radical&rank_icon=github" alt="Chanii2024's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanii2024&show_icons=true&theme=radical&rank_icon=github" alt="Chanii2024 GitHub Stats" />
 </p>
 
 ---
