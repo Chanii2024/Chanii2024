@@ -19,9 +19,9 @@
   <path class="stair" d="M 20 180 H 80 V 150 H 140 V 120 H 200 V 90 H 260 V 60" />
 
   <text x="90" y="145" class="goal-text highlight">BSc Third Year</text>
-  <text x="150" y="115" class="goal-text">Expert UI/UX</text>
-  <text x="210" y="85" class="goal-text">Global Deployment</text>
-  <text x="270" y="55" class="goal-text">Architecture Mastery</text>
+  <text x="150" y="115" class="goal-text">Full-Stack Excellence</text>
+  <text x="210" y="85" class="goal-text">System Scaling</text>
+  <text x="270" y="55" class="goal-text">Architect Mastery</text>
 
   <rect id="dev" x="40" y="170" width="10" height="10" rx="2" />
 </svg>
