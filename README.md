@@ -26,7 +26,7 @@ This section details the milestones a developer actively progresses through, ste
 </p>
 
 ### Developer Metrics
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chanii2024&show_icons=true&theme=radical" alt="Chanii2024 GitHub Stats" />
 </p>
 
