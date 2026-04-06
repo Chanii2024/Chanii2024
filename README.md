@@ -7,7 +7,9 @@
 ### The Vertical Ascent: Climbing the Repository Stairs
 This section details the milestones a developer actively progresses through, step-by-step. Each commitment and completed project represents another flight conquered on the staircase of technical proficiency and professional growth.
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header)
+<p align="left">
+  <img src="ascent.svg" width="500" />
+</p>
 
 * [ ] Reaching Software Architecture Proficiency
 * [ ] Deploying Complex Global Web Applications
