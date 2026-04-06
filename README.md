@@ -26,10 +26,10 @@ This section details the milestones a developer actively progresses through, ste
 </p>
 
 ### Developer Metrics
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chanii2024&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chanii2024&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
-</p>
+
+| | |
+| :--- | :--- |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chanii2024&show_icons=true&theme=tokyonight&hide_border=true" height="195" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chanii2024&layout=compact&theme=tokyonight&hide_border=true" height="195" /> |
 
 ---
 <p align="center">
